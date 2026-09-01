@@ -1,5 +1,5 @@
 # ============================================================
-# DAY 01: DATABASE FUNDAMENTALS
+# DAY 00: DATABASE FUNDAMENTALS
 # ============================================================
 
 print("DAY 01 - DATABASE FUNDAMENTALS")
