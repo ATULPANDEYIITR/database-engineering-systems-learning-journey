@@ -1,4 +1,3 @@
-````markdown
 # Database Architecture
 
 ## Overview
@@ -3031,9 +3030,3 @@ Backups + Disaster Recovery
 ```
 
 Understanding these layers makes it possible to reason about database performance, scalability, reliability, security, consistency, availability, and fault tolerance at an advanced system-design level.
-
-```
-
-This version is intentionally **one single Markdown unit** with no fragmented Markdown sections, so you can copy the entire block directly into `README.md`.
-```
-
